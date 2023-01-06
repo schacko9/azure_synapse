@@ -1,0 +1,26 @@
+[
+    {
+        "folder_path": "silver/calendar",
+        "sp_name": "silver.sp_silver_calendar"
+    },
+    {
+        "folder_path": "silver/taxi_zone",
+        "sp_name": "silver.sp_silver_taxi_zone"
+    },
+    {
+        "folder_path": "silver/trip_type",
+        "sp_name": "silver.sp_silver_trip_type"
+    },
+    {
+        "folder_path": "silver/vendor",
+        "sp_name": "silver.sp_silver_vendor"
+    },
+    {
+        "folder_path": "silver/rate_code",
+        "sp_name": "silver.sp_silver_rate_code"
+    },
+    {
+        "folder_path": "silver/payment_type",
+        "sp_name": "silver.sp_silver_payment_type3"
+    }
+]
